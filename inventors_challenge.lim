@@ -21,7 +21,7 @@
         <paxina id="1" >
               <tipo>38</tipo>
               <imaxe>PC.PNG</imaxe>
-              <forma>0</forma>
+              <forma>3</forma>
               <texto><![CDATA[
 <p align="center">
 <font color="#000000" face="Arial" size="32"><b><i><u>Inventor's Challenge!!</u></i></b></font></p>
@@ -29,7 +29,19 @@
               <ctexto>000000</ctexto>
         </paxina>
         <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Identifica las imagenes para poder completar la siguiente actividad</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Computer">PC.PNG</cousa>
+              <cousa nome="Penicillin">1.jpg</cousa>
+              <cousa nome="Email">email.jpg</cousa>
+              <cousa nome="Message">message.jpg</cousa>
+              <cousa nome="Poster">poster.PNG</cousa>
+        </paxina>
+        <paxina id="3" >
               <tipo>18</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Completa el texto con la palabra correcta</cabeceira>
               <modo>3</modo>
               <completa ant="I use my" post="to do my homework and research online.">computer</completa>
               <completa ant="In 1928, Alexander Fleming discovered" post="which revolutionized medicine.">penicillin</completa>

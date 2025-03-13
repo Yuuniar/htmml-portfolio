@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <cabeceira>Food</cabeceira>
+              <imaxe>food-objects-and-dishes-group-cartoon-illustration-vector.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#FF0000" face="Arial" size="32"><b><i>Los Alimentos</i></b><br>
+<br>
+</font><font color="#000000" face="Arial" size="12">  </font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>VOCABULARIO</cabeceira>
+              <modo>3</modo>
+              <cousa nome=" APPLE">apple-face-looking-like-kawaii-cute-fruit-mascot-isolated-cartoon-in-flat-style-free-vector.jpg</cousa>
+              <cousa nome="COFFEE">stock-of-mix-a-cup-coffee-latte-more-motive-top-view-foodgraphy-generative-ai-photo.jpg</cousa>
+              <cousa nome="HATE">discurso-de-odio-1920x1127.jpg</cousa>
+              <cousa nome="SALAD">Salad-illustration-in-cartoon-style-Hea-Graphics-33700641-1.jpg</cousa>
+              <cousa nome="LOVE">love.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="MILK">R.jpeg.jpg</cousa>
+              <cousa nome="LIKE">pngtree-boy-giving-a-like-and-thumb-up-feeling-satisfied-anak-suka-png-image_8741488.png</cousa>
+              <cousa nome="RICE">rice.jpg</cousa>
+              <cousa nome="PIZZA">pizza.jpeg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+              <cabeceira>Selecciona la correcta</cabeceira>
+              <imaxe>rice.jpg</imaxe>
+              <texto>I _______ rice.</texto>
+              <resp texto="" valor="1">LOVE</resp>
+              <resp texto="" valor="0">HATES</resp>
+              <resp texto="" valor="0">LIKING</resp>
+              <resp texto="" valor="0">LOVED</resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <imaxe>vegetables.jpg</imaxe>
+              <texto>She _______ to eat vegetables.</texto>
+              <resp texto="" valor="0">LOVE</resp>
+              <resp texto="" valor="1">LIKES</resp>
+              <resp texto="" valor="0">HATE</resp>
+              <resp texto="" valor="0">PREFERING</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+              <imaxe>coffee_and_tea.jpg</imaxe>
+              <texto>They _______ coffee more than tea.</texto>
+              <resp texto="" valor="0">LOVES</resp>
+              <resp texto="" valor="0">HATES</resp>
+              <resp texto="" valor="0">PREFER</resp>
+              <resp texto="" valor="0">LIKED</resp>
+        </paxina>
+    </libro>
+</lim>
